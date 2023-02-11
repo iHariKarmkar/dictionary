@@ -100,3 +100,12 @@ main {
 .audio audio {
     max-width: 200px;
 }
+
+
+/* ======= Media query ======== */
+
+@media only screen and (max-width: 992px)  {
+    .container {
+        width: 90vw;
+    }
+}
